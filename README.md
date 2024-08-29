@@ -136,5 +136,74 @@ Contributions are welcome! If you have any suggestions or improvements, please s
 
 ## Snapshot
 ![Screenshot (147)](https://github.com/user-attachments/assets/a825d56f-e9a7-441d-87a2-ec9e5f9df8c7)
+
 ![Screenshot (148)](https://github.com/user-attachments/assets/f933d0da-56c2-4173-bf6d-d8f5384c68da)
+
+# Task 3 (Task4)
+# Employee Metrics Analysis with Power BI
+## Project Overview
+
+This Power BI project is focused on analyzing employee metrics related to hiring, promotion, performance, and turnover. The goal is to define and visualize Key Performance Indicators (KPIs) to identify trends and possible root causes of slow progress in these areas.
+
+## Objectives
+
+- **Define relevant KPIs** in the areas of hiring, promotion, performance, and turnover.
+- **Create visualizations** that effectively communicate the trends and insights related to these KPIs.
+- **Identify potential root causes** for any slow progress observed in the data.
+
+## KPIs to be Calculated
+
+### Hiring
+- **# of Men Hired**: The total number of male employees hired in the fiscal year.
+- **# of Women Hired**: The total number of female employees hired in the fiscal year.
+- **% of Hires (Men)**: The percentage of total hires that are men.
+- **% of Hires (Women)**: The percentage of total hires that are women.
+
+### Promotion
+- **% Employees Promoted (FY21)**: The percentage of total employees who were promoted in FY21.
+- **% of Women Promoted**: The percentage of total female employees who were promoted.
+  
+### Performance
+- **Average Performance Rating (Men)**: The average performance rating of male employees.
+- **Average Performance Rating (Women)**: The average performance rating of female employees.
+
+### Turnover
+- **# of Leavers**: The total number of employees who left the organization.
+- **% Turnover**: The percentage of total employees who left the organization.
+
+## Visualizations
+
+The following visualizations will be created in Power BI to represent the calculated KPIs:
+
+1. **Bar Chart**: Comparing the number of men vs. women hired, promoted, and left the organization.
+2. **Line Chart**: Showing trends in % of hires and promotions over time, segmented by gender.
+3. **Pie Chart**: Distribution of turnover by gender.
+4. **KPI Cards**: Displaying % of employees promoted, % of hires (men and women), and average performance ratings for men and women.
+5. **Heat Map**: Highlighting areas with the highest turnover rates and lowest performance ratings.
+
+## Analysis & Root Cause Identification
+
+Based on the visualizations, the following potential root causes for slow progress in the areas of hiring, promotion, performance, and turnover may be identified:
+
+1. **Gender Bias in Hiring & Promotion**: Discrepancies in the hiring and promotion percentages between men and women could indicate potential biases or structural issues in the recruitment and promotion processes.
+  
+2. **Performance Rating Disparities**: Significant differences in the average performance ratings of men and women might suggest issues related to performance evaluation criteria or biases in performance reviews.
+
+3. **High Turnover Rates**: High turnover rates, particularly among a specific gender, may indicate dissatisfaction, lack of growth opportunities, or workplace culture issues.
+
+## How to Use This Repository
+
+1. Open the Power BI file (`.pbix`) in Power BI Desktop.
+2. Review the visualizations and KPIs.
+3. Use the insights to identify areas for improvement in hiring, promotion, performance, and turnover processes.
+
+## Contributing
+
+Contributions to this project are welcome! Please create a pull request or open an issue to discuss potential improvements or additional analyses.
+
+## Snapshot
+
+![Screenshot (149)](https://github.com/user-attachments/assets/ee564d3d-a5e3-4a78-a4c6-6ceac0b5a839)
+
+![Screenshot (150)](https://github.com/user-attachments/assets/08b0ee49-c515-4e6c-8f01-009f302aa558)
 
