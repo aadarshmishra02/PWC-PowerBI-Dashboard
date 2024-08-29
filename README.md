@@ -1,6 +1,6 @@
 # PowerBI-Dashboard
 # Task 1 (call Records)
-# Power BI Dashboard for Claire's KPIs and Metrics
+## Power BI Dashboard for Claire's KPIs and Metrics
 
 This project involves creating a comprehensive and interactive Power BI dashboard that reflects key performance indicators (KPIs) and metrics for Claire. The dashboard is designed to provide insights into customer satisfaction, call handling performance, and agent productivity, among other metrics. 
 
